@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\alexa\\.virtualenvs\\Projetos-Dr4hgZGl\\Scripts\\python.exe",
+		"compile-hero.disable-compile-files-on-did-save-code": false
+	}
+}
