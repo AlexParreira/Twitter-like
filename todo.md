@@ -3,6 +3,7 @@
         ->Text
         ->Image -> Media Storage Server
     ->Delete
+    -> Linking
     ->Retweeting
 
 2. Users
